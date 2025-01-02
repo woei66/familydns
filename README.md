@@ -6,4 +6,4 @@ You need to execute "pihole -g" on the command line to enable the list on the Pi
 You should know that www.abc.com is different to abc.com and you should add both to the hosts.txt file if you wish to block both domains.
 
 # About Pi-hole
-You can download Pi-hole from https://pi-hole.net/
+You can download Pi-hole from https://pi-hole.net/ or https://github.com/pi-hole/pi-hole
